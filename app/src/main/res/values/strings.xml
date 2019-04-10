@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Local notification</string>
+    <string name="local_notification">Local Notification!</string>
+    <string name="send">Send</string>
+</resources>
